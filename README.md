@@ -1,175 +1,139 @@
 Readme · MD
 Copy
 
-<h1 align="center">👋 Hi, I'm Saloni</h1>
+<!--  ╔═══════════════════════════════════════════════════╗  -->
+<!--  ║         saloni2312 / README.md                   ║  -->
+<!--  ╚═══════════════════════════════════════════════════╝  -->
  
-<p align="center">
-  <b>Computer Science Student &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Problem Solver</b>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76C5E&center=true&vCenter=true&width=500&lines=Building+impactful+web+apps+%F0%9F%9A%80;Exploring+Full-Stack+Development+%F0%9F%94%A5;Always+curious%2C+always+building+%F0%9F%92%A1" alt="Typing SVG" />
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/saloni303"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;—&nbsp;
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  &nbsp;—&nbsp;
-  <a href="mailto:saloni786jarina@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saloni2312&style=for-the-badge&color=f76c5e" alt="Profile Views" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,c44dff,6c63ff&height=200&section=header&text=Saloni&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=crafting+ideas+into+code+✦&descAlignY=58&descSize=18&animation=fadeIn" />
+</div>
 ---
  
-## 🚀 About Me
+<div align="center">
+### ✦ &nbsp; a builder. a thinker. a work in progress. &nbsp; ✦
  
-```javascript
-const saloni = {
-    education   : "Computer Science Student",
-    passion     : ["Full-Stack Development", "Web Apps", "Clean UI/UX"],
-    seeking     : ["Software Engineering Internships", "Entry-Level Opportunities"],
+*CS student who believes good software is quiet — it just works.*
  
-    whatDrivesMe: {
-        design      : "clean & user-friendly",
-        code        : "readable & efficient",
-        fundamentals: ["REST APIs", "data structures", "web architecture"]
-    },
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1200&color=FF6B9D&center=true&vCenter=true&width=480&lines=turning+caffeine+into+clean+code+☕;one+commit+at+a+time+🌱;currently+learning+something+new+today+📖;making+bugs+disappear+since+2022+🔍)](https://git.io/typing-svg)
  
-    currentlyFocusedOn: [
-        "Building real-world projects with Python & JavaScript",
-        "Strengthening DSA foundations",
-        "Exploring backend development & deployment"
-    ],
+<br/>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saloni303)
+[![Portfolio](https://img.shields.io/badge/portfolio-ff6b9d?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saloni786jarina@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=saloni2312&style=for-the-badge&color=c44dff&label=visitors)](https://github.com/saloni2312)
  
-    mindset : "Understanding the 'why' behind the 'how'",
-    goal    : "Contribute to meaningful projects while growing as a developer"
-};
+</div>
+<br/>
+---
+ 
+## 🌸 &nbsp; who am i?
+ 
+```
+ ┌─────────────────────────────────────────────────────────────────┐
+ │                                                                 │
+ │   name     →  Saloni                                            │
+ │   role     →  CS Student  +  Developer  +  Eternal Learner      │
+ │   based    →  India  🇮🇳                                         │
+ │                                                                 │
+ │   i build  →  web apps that solve real problems                 │
+ │   i love   →  clean UI, elegant logic, honest commits           │
+ │   i'm on   →  a journey from "it works on my machine"           │
+ │              to "it works everywhere" 🚀                        │
+ │                                                                 │
+ │   currently  →  open to internships & collabs                   │
+ │   learning   →  backend architecture, DSA, system design        │
+ │   obsessed   →  with making things actually make sense          │
+ │                                                                 │
+ └─────────────────────────────────────────────────────────────────┘
 ```
  
+<br/>
 ---
  
-## 🛠️ Technical Arsenal
+## 🛠️ &nbsp; my toolkit
  
-<table>
-  <tr>
-    <td valign="top" width="50%">
-**Languages**
+> *tools don't make the developer — but these sure help*
  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+<br/>
+**→ languages i speak**
  
-**Backend & APIs**
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=FFD43B)&nbsp;
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=f89820)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
+![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=659ad2)
  
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-005571?style=flat-square&logo=cloudflare&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+**→ things i build with**
  
-  </td>
-  <td valign="top" width="50%">
-**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6)&nbsp;
+![REST API](https://img.shields.io/badge/REST_APIs-1a1a2e?style=flat-square&logo=fastapi&logoColor=009688)&nbsp;
+![JSON](https://img.shields.io/badge/JSON-1a1a2e?style=flat-square&logo=json&logoColor=white)
  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**→ tools i can't live without**
  
-**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=flat-square&logo=postman&logoColor=FF6C37)
  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
- 
-  </td>
-  </tr>
-</table>
+<br/>
 ---
  
-## 📦 Featured Projects
+## 🗂️ &nbsp; things i've built
  
-<table>
-  <tr>
-    <td valign="top" width="50%">
-### 💰 financial-forecasting-web-tool
-A financial data forecasting web application that helps users analyze and predict financial trends using Python.
+<br/>
+| &nbsp; | project | what it does | stack |
+|--------|---------|--------------|-------|
+| 💰 | **[financial-forecasting-web-tool](https://github.com/saloni2312/financial-forecasting-web-tool)** | forecasts financial trends from data — because numbers should tell a story | `Python` |
+| 🛒 | **[flipkart-clone-app](https://github.com/saloni2312/flipkart-clone-app)** | full e-commerce UI clone — cart, listings, the whole thing | `JavaScript` |
+| 🌤️ | **[Weather-App](https://github.com/saloni2312/Weather-App)** | live weather via REST APIs — built entirely in Java | `Java` `REST` `JSON` |
+| 🌐 | **[PRODIGY_WD_05](https://github.com/saloni2312/PRODIGY_WD_05)** | personal portfolio — where I show off (a little) | `HTML` `CSS` |
  
-**Tech:** Python, Data Analysis, Web
- 
-[![Live](https://img.shields.io/badge/Live-28a745?style=flat-square)](https://github.com/saloni2312/financial-forecasting-web-tool)
-[![Demo](https://img.shields.io/badge/Demo-0075ca?style=flat-square)](https://github.com/saloni2312/financial-forecasting-web-tool)
- 
-  </td>
-  <td valign="top" width="50%">
-### 🛒 flipkart-clone-app
-A full clone of Flipkart's e-commerce UI with product listing, cart, and order flow — built with vanilla JavaScript.
- 
-**Tech:** JavaScript, HTML, CSS
- 
-[![Live](https://img.shields.io/badge/Live-28a745?style=flat-square)](https://github.com/saloni2312/flipkart-clone-app)
-[![Demo](https://img.shields.io/badge/Demo-0075ca?style=flat-square)](https://github.com/saloni2312/flipkart-clone-app)
- 
-  </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-### 🌤️ Weather-App
-Live weather application using REST APIs, HTTP Requests, and JSON Parsing — built end-to-end in Java.
- 
-**Tech:** Java, REST APIs, JSON Parsing
- 
-[![Live](https://img.shields.io/badge/Live-28a745?style=flat-square)](https://github.com/saloni2312/Weather-App)
-[![Demo](https://img.shields.io/badge/Demo-0075ca?style=flat-square)](https://github.com/saloni2312/Weather-App)
- 
-  </td>
-  <td valign="top" width="50%">
-### 🌐 PRODIGY_WD_05
-Personal portfolio website designed to showcase projects, skills, and experience with clean CSS styling.
- 
-**Tech:** CSS, HTML, JavaScript
- 
-[![Live](https://img.shields.io/badge/Live-28a745?style=flat-square)](https://github.com/saloni2312/PRODIGY_WD_05)
-[![Demo](https://img.shields.io/badge/Demo-0075ca?style=flat-square)](https://github.com/saloni2312/PRODIGY_WD_05)
- 
-  </td>
-  </tr>
-</table>
+<br/>
 ---
  
-## 📊 GitHub Analytics
+## 📈 &nbsp; by the numbers
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saloni2312&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni2312&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saloni2312&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saloni2312&theme=redical&hide_border=true&area=true" />
-</p>
+<div align="center">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=saloni2312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff6b9d&icon_color=c44dff&text_color=a9b1d6&ring_color=6c63ff" />
+&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni2312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=ff6b9d&text_color=a9b1d6" />
+<br/><br/>
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saloni2312&theme=tokyonight&hide_border=true&background=0d0d1a&ring=ff6b9d&fire=c44dff&currStreakLabel=ff6b9d&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
+<br/>
 ---
  
-## 🐍 Contribution Activity
+## 🐍 &nbsp; watch my contributions grow
  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saloni2312/saloni2312/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/saloni2312/saloni2312/output/github-contribution-grid-snake-dark.svg" />
+</div>
+<br/>
 ---
  
-> *"The magic you are looking for is in the work you are avoiding."*
+## 🌱 &nbsp; right now
  
-I believe in consistent effort, deliberate practice, and building things that matter. Every line of code is an opportunity to learn something new.
+```diff
++ reading    →  system design primers & clean code principles
++ building   →  something new (ask me about it!)
++ exploring  →  backend frameworks & database design
++ goal       →  land a meaningful internship and keep shipping
+```
  
+<br/>
 ---
  
-## 💛 Let's Connect
+<div align="center">
+*✦ &nbsp; "do what you can, with what you have, where you are." &nbsp; ✦*
  
-<p align="center">
-  Open to collaborations, internship opportunities, and meaningful conversations about technology.
-</p>
-<p align="center">
-  ⭐ From <a href="https://github.com/saloni2312">saloni2312</a>
-</p>
+<br/>
+**let's build something cool together.**
+ 
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,c44dff,6c63ff&height=100&section=footer&animation=fadeIn" />
+</div>
  
