@@ -10,11 +10,11 @@ Copy
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76C5E&center=true&vCenter=true&width=500&lines=Building+impactful+web+apps+%F0%9F%9A%80;Exploring+Full-Stack+Development+%F0%9F%94%A5;Always+curious%2C+always+building+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saloni303"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;—&nbsp;
   <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   &nbsp;—&nbsp;
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:saloni786jarina@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saloni2312&style=for-the-badge&color=f76c5e" alt="Profile Views" />
